@@ -1,0 +1,33 @@
+body {
+    background-color: #353535;
+}
+
+h1 {
+    color: #76c893;
+    text-align: center;
+    font-family: 'The Nautigal', sans-serif;
+    font-size: 10rem;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+.dice {
+    color: #76c893;
+    font-family: 'The Nautigal', sans-serif;
+    font-size: 5rem;
+    display: inline-block;
+}
+
+.players {
+    text-align: center;
+}
+
+p {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+}
+
+img {
+    margin-left: 2rem;
+    margin-right: 2rem;
+}
